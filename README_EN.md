@@ -11,6 +11,8 @@ This end-to-end data analysis project examines the **College Majors 2026** datas
 
 The goal is not just to describe the data, but to extract **actionable insights** relevant to students, policymakers, and anyone thinking about the ROI of higher education in an AI-driven economy.
 
+Link dataset: https://www.kaggle.com/datasets/kylefengkfeng209/college-majors-2026-earnings-debt-jobs-ai
+
 ---
 
 ## 🔍 Key Questions Explored
