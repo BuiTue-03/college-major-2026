@@ -114,3 +114,5 @@ df = pd.read_csv('/content/drive/MyDrive/college_majors_2026.csv', low_memory=Fa
 I'm interested in roles where analysis connects directly to decisions — not just dashboards for dashboards' sake.
 
 📎 [LinkedIn](#) · 📧 [Email](#)
+
+*The data is used for academic analysis and career guidance purposes.*
