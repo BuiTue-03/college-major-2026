@@ -114,4 +114,5 @@ df = pd.read_csv('/content/drive/MyDrive/college_majors_2026.csv', low_memory=Fa
 **6 tháng kinh nghiệm làm Business Analyst**  project này phản ánh cách tui tiếp cận công việc phân tích: bắt đầu từ một câu hỏi thật sự, không phải từ một dataset. Tui quan tâm đến những vị trí mà phân tích dữ liệu kết nối trực tiếp với quyết định kinh doanh.
 
 📎 [LinkedIn](#) · 📧 [Email](#)
+
 *Dữ liệu được sử dụng cho mục đích phân tích học thuật và định hướng nghề nghiệp.*
