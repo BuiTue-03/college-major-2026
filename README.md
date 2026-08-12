@@ -21,7 +21,7 @@ Bộ dữ liệu được Mind Lab tổng hợp từ 5 nguồn dữ liệu công
 - **Công cụ trực quan**: Power BI.
 
 ## 📂 Cấu trúc Repository
-- `analysis.ipynb`: Notebook chứa toàn bộ mã nguồn xử lý và phân tích dữ liệu.
+- `College Majors 2026.ipynb`: Notebook chứa toàn bộ mã nguồn xử lý và phân tích dữ liệu.
 - `cleaned_college_majors.csv`: Dữ liệu đã làm sạch (dùng để import vào Power BI).
 - `README.md`: Tài liệu hướng dẫn dự án.
 
