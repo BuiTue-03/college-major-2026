@@ -7,7 +7,7 @@
 
 ## 📌 Tổng quan
 
-Project này phân tích **228.000 chương trình đào tạo đại học tại Mỹ** :bao gồm dữ liệu về thu nhập sau tốt nghiệp, nợ sinh viên, tỷ lệ việc làm, và mức độ phơi nhiễm AI trong các ngành nghề liên quan.
+Project này phân tích **228.000 chương trình đào tạo đại học tại Mỹ** :bao gồm dữ liệu về thu nhập sau tốt nghiệp, nợ sinh viên, tỷ lệ việc làm, và mức độ liên quan đến AI trong các ngành nghề.
 
 Câu hỏi thật sự tui muốn trả lời không phải là "ngành nào lương cao nhất" mà chính là:
 
@@ -111,8 +111,8 @@ df = pd.read_csv('/content/drive/MyDrive/college_majors_2026.csv', low_memory=Fa
 
 ## 👤 Về tác giả
 
-**6 tháng kinh nghiệm làm Business Analyst**  project này phản ánh cách tui tiếp cận công việc phân tích: bắt đầu từ một câu hỏi thật sự, không phải từ một dataset. Tui quan tâm đến những vị trí mà phân tích dữ liệu kết nối trực tiếp với quyết định kinh doanh.
+**6 tháng kinh nghiệm làm Business Analyst**  project này phản ánh cách tui tiếp cận công việc phân tích: bắt đầu từ một câu hỏi thật sự chứ không phải từ một dataset bất kỳ. Tui quan tâm đến những vị trí mà phân tích dữ liệu kết nối trực tiếp với quyết định kinh doanh.
 
-📎 [LinkedIn](#) · 📧 [Email](#)
+📎 LinkedIn: www.linkedin.com/in/bui-gia-tue1603 · 📧 Email: buigiatue0303@gmail.com
 
 *Dữ liệu được sử dụng cho mục đích phân tích học thuật và định hướng nghề nghiệp.*
