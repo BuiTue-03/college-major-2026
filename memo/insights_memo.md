@@ -1,7 +1,7 @@
 # 📋 Insights Memo: College Majors 2026
 **Prepared by:** Oriana Bui  
 **Dataset:** College Majors 2026 – Earnings, Debt, Jobs, AI (228,000 U.S. degree programs)  
-**Last updated:** 2026  
+**Last updated:** 08/2026  
 
 ---
 
