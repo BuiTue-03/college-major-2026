@@ -21,7 +21,6 @@ Câu hỏi thật sự tui muốn trả lời không phải là "ngành nào lư
 - AI exposure trong nghề nghiệp liên kết có thực sự dự báo thu nhập cao hơn không?
 - Tỷ lệ nợ trên thu nhập (debt-to-earnings) thay đổi như thế nào theo loại trường, loại bằng, và vùng địa lý?
 - Chương trình nào mang lại giá trị tài chính tốt nhất so với chi phí bỏ ra?
-- Link dataset: https://www.kaggle.com/datasets/kylefengkfeng209/college-majors-2026-earnings-debt-jobs-ai
 
 ---
 
@@ -86,7 +85,7 @@ Dashboard bao gồm:
 
 ## 📂 Dataset
 
-**Nguồn:** [College Majors 2026: Earnings, Debt, Jobs, AI  Kaggle](https://www.kaggle.com/)  
+**Nguồn:** https://www.kaggle.com/datasets/kylefengkfeng209/college-majors-2026-earnings-debt-jobs-ai  
 **Kích thước:** ~228.000 dòng × 72 cột  
 **Phạm vi:** Các chương trình đại học tại Mỹ, kết quả đo lường sau 1, 4 và 5 năm tốt nghiệp  
 **Cột chính:** `median_earnings_4yr_usd`, `median_debt_usd`, `debt_to_earnings_4yr`, `ai_software_occupation_share`
