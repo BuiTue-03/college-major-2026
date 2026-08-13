@@ -209,5 +209,5 @@ AI landscape thay đổi rất nhanh. Outcomes trong dataset phản ánh thị t
 
 ---
 
-*Phân tích được thực hiện bằng Python (pandas, seaborn, scipy, statsmodels). Dữ liệu nguồn: Kaggle - College Majors 2026.*  
+*Phân tích được thực hiện bằng Python (pandas, seaborn, scipy, statsmodels).*  
 *Xem toàn bộ code tại: [`notebooks/college_majors_analysis.ipynb`](../notebooks/college_majors_analysis.ipynb)*
