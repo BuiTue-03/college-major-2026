@@ -42,7 +42,7 @@ college-major-2026/
 ├── memo/
 │   └── insights_memo.md                 # Tổng hợp insight theo dạng business memo
 │
-├── README.md                            # Bản tiếng Việt (file này)
+├── README_VI.md                         # Bản tiếng Việt (file này)
 └── README_EN.md                         # Bản tiếng Anh
 ```
 
