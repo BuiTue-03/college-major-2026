@@ -38,7 +38,7 @@ college-major-2026/
 │   └── college_majors_powerbi.pbix      # Interactive Power BI dashboard
 │
 ├── memo/
-│   └── insights_memo.md                 # Key findings written as a business memo
+│   └── insights_memo.md (2 ver)         # Key findings written as a business memo
 │
 ├── README_EN.md                            # English version (this file)
 └── README_VI.md                         # Vietnamese version
