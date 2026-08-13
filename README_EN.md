@@ -11,8 +11,6 @@ This end-to-end data analysis project examines the **College Majors 2026** datas
 
 The goal is not just to describe the data, but to extract **actionable insights** relevant to students, policymakers, and anyone thinking about the ROI of higher education in an AI-driven economy.
 
-Link dataset: https://www.kaggle.com/datasets/kylefengkfeng209/college-majors-2026-earnings-debt-jobs-ai
-
 ---
 
 ## 🔍 Key Questions Explored
@@ -85,7 +83,7 @@ The dashboard includes:
 
 ## 📂 Dataset
 
-**Source:** [College Majors 2026: Earnings, Debt, Jobs, AI — Kaggle](https://www.kaggle.com/)  
+**Source:** https://www.kaggle.com/datasets/kylefengkfeng209/college-majors-2026-earnings-debt-jobs-ai  
 **Size:** ~228,000 rows × 72 columns  
 **Coverage:** U.S. postsecondary programs, outcomes measured 1, 4, and 5 years post-enrollment  
 **Key fields:** `median_earnings_4yr_usd`, `median_debt_usd`, `debt_to_earnings_4yr`, `ai_software_occupation_share`
@@ -115,6 +113,6 @@ df = pd.read_csv('/content/drive/MyDrive/college_majors_2026.csv', low_memory=Fa
 
 I'm interested in roles where analysis connects directly to decisions — not just dashboards for dashboards' sake.
 
-📎 [LinkedIn](#) · 📧 [Email](#)
+📎 [LinkedIn](www.linkedin.com/in/bui-gia-tue1603) · 📧 [Email](buigiatue0303@gmail.com)
 
 *The data is used for academic analysis and career guidance purposes.*
